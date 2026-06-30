@@ -68,7 +68,7 @@ iot_cloud_complete/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/TON_USERNAME/iot-cloud-plateforme.git
+git clone https://github.com/falylova/iot-cloud-plateforme.git
 cd iot-cloud-plateforme
 ```
 
