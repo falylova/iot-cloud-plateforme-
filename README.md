@@ -68,8 +68,8 @@ iot_cloud_complete/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/falylova/iot-cloud-plateforme-.git
-cd iot-cloud-plateforme-
+git clone https://github.com/falylova/iot-cloud-plateforme.git
+cd iot-cloud-plateforme
 ```
 
 ### 2. Démarrer les services Docker
